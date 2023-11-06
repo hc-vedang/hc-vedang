@@ -12,6 +12,7 @@ I like you go for trekking or to adventures trips for fun.
 
 <h3 align="left">Languages and Technologies</h3>
 <p align="left">
+   
    <a href="https://www.tensorflow.org" target="_blank">
       <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="60"
          height="40" />
@@ -31,6 +32,21 @@ I like you go for trekking or to adventures trips for fun.
    <a href="https://www.mysql.com/" target="_blank">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
          alt="mysql" width="80" height="50" />
+   </a>
+   <a href="https://www.python.org/" target="_blank">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="60" height="40" />
+   </a>
+   <a href="https://www.djangoproject.com/" target="_blank">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="django" width="60" height="40" />
+   </a>
+   <a href="https://reactjs.org/" target="_blank">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="reactjs" width="60" height="40" />
+   </a>
+   <a href="https://grails.org/" target="_blank">
+      <img src="https://grails.org/assets/images/grails-logo.svg" alt="grails" width="60" height="40" />
+   </a>
+   <a href="https://spring.io/projects/spring-boot" target="_blank">
+      <img src="https://spring.io/images/spring-logo.svg" alt="Spring Boot" width="60" height="40" />
    </a>
    <a href="https://hibernate.org/" target="_blank">
       <img src="https://hibernate.org/images/hibernate-logo.svg"
@@ -96,9 +112,9 @@ I like you go for trekking or to adventures trips for fun.
 
 <h3 align="left">Github Stats</h3>
 
-<img  src="https://github-readme-stats.vercel.app/api?username=vsbehere&show_icons=true&hide_border=true&theme=dark" width="48%" align="right" >
-<img  src="https://github-readme-streak-stats.herokuapp.com/?user=vsbehere&theme=dark" width="48%" >
+<img  src="https://github-readme-stats.vercel.app/api?username=hc-vedang&show_icons=true&hide_border=true&theme=dark" width="48%" align="right" >
+<img  src="https://github-readme-streak-stats.herokuapp.com/?user=hc-vedang&theme=dark" width="48%" >
 
 <p align="center"> 
-  <img src="https://profile-counter.glitch.me/vsbehere/count.svg" alt="Visitor Count" align="center" />
+  <img src="https://profile-counter.glitch.me/hc-vedang/count.svg" alt="Visitor Count" align="center" />
 </p>
