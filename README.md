@@ -13,7 +13,7 @@ I also enjoy going for trekking and adventurous trips for fun.
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="60" height="40" />
     </a>
     <a href="https://spring.io/projects/spring-boot" target="_blank">
-        <img src="https://spring.io/images/spring-logo.svg" alt="Spring Boot" width="60" height="40" />
+        <img src="https://www.vectorlogo.zone/logos/springio/springio-ar21.svg" alt="Spring Boot" width="60" height="40" />
     </a>
     <a href="https://kafka.apache.org/" target="_blank">
         <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="Apache Kafka" width="60" height="40" />
