@@ -99,6 +99,5 @@ I also enjoy going for trekking and adventurous trips for fun.
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=hc-vedang&theme=dark" width="48%" />
 
 <p align="center">
-    <!-- Update the image source for the visitor count -->
-    <img src="https://example.com/visitor-count-image.svg" alt="Visitor Count" align="center" />
+     <img src="https://profile-counter.glitch.me/hc-vedang/count.svg" alt="Visitor Count" align="center" />
 </p>
