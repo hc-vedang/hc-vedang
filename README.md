@@ -1,14 +1,11 @@
 ### Hi there 👋
 
+By day, I am a Senior Software Engineer at Humancloud Technologies Pvt Ltd. By night, I write code for my own practice and to explore various technologies.
 
-By day I am a Senior Software Engineer at Humancloud Technologies Pvt Ltd. By night I write code for my own practice and to explore
-various technologies.
+I also enjoy going for trekking and adventurous trips for fun.
 
-I like you go for trekking or to adventures trips for fun.
-
-<b>My favourite quote :</b> <i>"There's always plenty of room for improvement - in your code, in your abilities, in
-   you."</i>
-
+**My favorite quote:**
+*"There's always plenty of room for improvement - in your code, in your abilities, in you."*
 
 <h3 align="left">Languages and Technologies</h3>
 <p align="left">
@@ -97,9 +94,11 @@ I like you go for trekking or to adventures trips for fun.
 
 <h3 align="left">Github Stats</h3>
 
+<!-- Update the image sources for the GitHub stats -->
 <img src="https://github-readme-stats.vercel.app/api?username=hc-vedang&show_icons=true&hide_border=true&theme=dark" width="48%" align="right" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=hc-vedang&theme=dark" width="48%" />
 
 <p align="center">
-    <img src="https://profile-counter.glitch.me/hc-vedang/count.svg" alt="Visitor Count" align="center" />
+    <!-- Update the image source for the visitor count -->
+    <img src="https://example.com/visitor-count-image.svg" alt="Visitor Count" align="center" />
 </p>
